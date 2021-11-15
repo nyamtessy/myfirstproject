@@ -1,0 +1,44 @@
+.shoplist{
+   width: 70%;
+   align-items: center;
+   padding: 20px 30px;
+    max-width: 70%;
+    margin: 10px auto;
+    /* border: 1px solid #333; */
+}
+
+h1{
+    text-align: center;
+}
+
+#userInput{
+    padding: 10px;
+    width: 70%;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+#enter{
+    padding: 12px 20px;
+    background-color: rgb(110, 189, 241);
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+#enter:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+
+.boughtItem{
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration: none;
+}
